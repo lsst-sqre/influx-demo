@@ -1,0 +1,2 @@
+jupyter>=1.0.0
+influxdb==5.2.0
